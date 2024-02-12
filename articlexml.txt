@@ -1,0 +1,3 @@
+https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6936
+https://www.straitstimes.com/news/singapore/rss.xml
+EXAMPLE RSS FEEDS, please choose your own
